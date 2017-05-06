@@ -1,7 +1,7 @@
-create a new local repository
+#create a new local repository
     git init   
 
-connect to a remote repository
+#connect to a remote repository
     git remote add origin <server>
 
 list all currently configured remote repos
