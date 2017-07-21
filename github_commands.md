@@ -37,6 +37,8 @@
     mkdir git-repos
     cd repos
     git init
+    git add .
+    git commit -m "message"
     git remote add origin <https>
     git status
     git commit -m "message"
