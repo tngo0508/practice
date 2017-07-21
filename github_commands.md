@@ -1,4 +1,4 @@
-### create a new local repository
+### create/initializing a new local repository
     git init   
 
 ### connect to a remote repository
