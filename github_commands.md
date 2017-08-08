@@ -49,3 +49,5 @@
     git diff --color-world <branch1>..<branch2>
     git branch --merged
     git branch -d <branch_to_delete>
+### in .bashrc
+    export PS1='W$(__git_ps1 "(%s)") > '
