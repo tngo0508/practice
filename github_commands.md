@@ -46,5 +46,6 @@
     
 ### more on git
     git log --oneline
-
-
+    git diff --color-world <branch1>..<branch2>
+    git branch --merged
+    git branch -d <branch_to_delete>
