@@ -43,4 +43,8 @@
     git status
     git commit -m "message"
     git push origin master
+    
+### more on git
+    git log --oneline
+
 
